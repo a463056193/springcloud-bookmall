@@ -1,0 +1,8 @@
+pers\bookmall\user\BookMallUserApplication.class
+pers\bookmall\user\service\AdminService.class
+pers\bookmall\user\service\UserService.class
+pers\bookmall\user\controller\CheckCodeController.class
+pers\bookmall\user\mapper\UserMapper.class
+pers\bookmall\user\mapper\AdminMapper.class
+pers\bookmall\user\controller\AdminController.class
+pers\bookmall\user\controller\UserController.class

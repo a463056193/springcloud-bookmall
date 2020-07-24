@@ -1,0 +1,6 @@
+pers\bookmall\common\utils\NumberUtils.class
+pers\bookmall\common\pojo\PageResult.class
+pers\bookmall\common\utils\CookieUtils.class
+pers\bookmall\common\utils\CodecUtils.class
+pers\bookmall\common\utils\IdWorker.class
+pers\bookmall\common\utils\JsonUtils.class

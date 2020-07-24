@@ -1,0 +1,5 @@
+pers\bookmall\config\FilterProperties.class
+pers\bookmall\config\GlobalCorsConfig.class
+pers\bookmall\BookMallGatewayApplication.class
+pers\bookmall\filter\LoginFilter.class
+pers\bookmall\config\JwtProperties.class

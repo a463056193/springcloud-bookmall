@@ -1,0 +1,5 @@
+pers\bookmall\upload\service\UploadService.class
+pers\bookmall\upload\config\FastClientImporter.class
+pers\bookmall\upload\BookMallUploadApplication.class
+pers\bookmall\upload\config\BookMallCorsConfiguration.class
+pers\bookmall\upload\controller\UploadController.class

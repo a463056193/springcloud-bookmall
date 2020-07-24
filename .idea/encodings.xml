@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bookmall-auth/bookmall-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-auth/bookmall-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-goods-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-item/bookmall-item-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-item/bookmall-item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-item/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-user/bookmall-user-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-user/bookmall-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookmall-user/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

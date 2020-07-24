@@ -1,0 +1,16 @@
+server:
+  port: 8086
+spring:
+  application:
+    name: sms-service
+  rabbitmq:
+    host: 47.115.30.101
+    username: bookmall
+    password: bookmall
+    virtual-host: /bookmall
+bookmall:
+  sms:
+    SDKAppID: 1400400081
+    AppKey: 5cfff2de85d0b0a6656e162d654954fe
+    signName: 智学个人网站 # 签名名称
+    templateId: 662944 # 模板名称

@@ -1,0 +1,6 @@
+pers\bookmall\sms\utils\SmsUtils.class
+pers\bookmall\sms\BookMallSmsApplication.class
+pers\bookmall\sms\listener\SmsListener.class
+pers\bookmall\sms\demo\AddSmsTemplate.class
+pers\bookmall\sms\demo\SendSms.class
+pers\bookmall\sms\config\SmsProperties.class

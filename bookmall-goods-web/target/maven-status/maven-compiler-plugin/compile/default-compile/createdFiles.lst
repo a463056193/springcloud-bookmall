@@ -1,0 +1,7 @@
+pers\bookmall\goodsweb\service\GoodsHtmlService.class
+pers\bookmall\goodsweb\BookMallGoodsWebApplication.class
+pers\bookmall\goodsweb\client\BookClient.class
+pers\bookmall\goodsweb\listener\GoodsListener.class
+pers\bookmall\goodsweb\service\GoodsService.class
+pers\bookmall\goodsweb\controller\GoodsController.class
+pers\bookmall\goodsweb\utils\ThreadUtils.class

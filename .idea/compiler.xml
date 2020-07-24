@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bookmall-goods-web" />
+        <module name="bookmall-order" />
+        <module name="bookmall-item-service" />
+        <module name="bookmall-user-interface" />
+        <module name="bookmall-cart" />
+        <module name="bookmall-registry" />
+        <module name="bookmall-auth-service" />
+        <module name="bookmall-gateway" />
+        <module name="bookmall-user-service" />
+        <module name="bookmall-item-interface" />
+        <module name="bookmall-common" />
+        <module name="bookmall-upload" />
+        <module name="bookmall-sms" />
+        <module name="bookmall-search" />
+        <module name="bookmall-auth-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bookmall" options="-parameters" />
+      <module name="bookmall-auth" options="-parameters" />
+      <module name="bookmall-auth-common" options="-parameters" />
+      <module name="bookmall-auth-service" options="-parameters" />
+      <module name="bookmall-cart" options="-parameters" />
+      <module name="bookmall-common" options="-parameters" />
+      <module name="bookmall-gateway" options="-parameters" />
+      <module name="bookmall-goods-web" options="-parameters" />
+      <module name="bookmall-item" options="-parameters" />
+      <module name="bookmall-item-interface" options="-parameters" />
+      <module name="bookmall-item-service" options="-parameters" />
+      <module name="bookmall-order" options="-parameters" />
+      <module name="bookmall-registry" options="-parameters" />
+      <module name="bookmall-search" options="-parameters" />
+      <module name="bookmall-sms" options="-parameters" />
+      <module name="bookmall-upload" options="-parameters" />
+      <module name="bookmall-user-interface" options="-parameters" />
+      <module name="bookmall-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

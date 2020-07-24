@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a53414c4-b584-4297-8143-0a02d607809e" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\maven_repository" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eS4jDQkQBO0eKyjuUeUxHoYAPj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pers.bookmall.search.client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyCode\bookmall\bookmall-order\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pers.bookmall.common.utils" />
+      <recent name="pers.bookmall.common.exception" />
+      <recent name="pers.bookmall.config" />
+      <recent name="pers.bookmall.sms.config" />
+      <recent name="pers.bookmall.item.api" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyCode\bookmall\bookmall-order\src\main\resources\mapper" />
+      <recent name="D:\MyCode\bookmall\bookmall-common\src\main\java\pers\bookmall\common\utils" />
+      <recent name="D:\MyCode\bookmall\bookmall-goods-web\src\main\resources\templates" />
+      <recent name="D:\MyCode\bookmall\bookmall-auth\bookmall-auth-common\src\main\java\pers\bookmall\common\pojo" />
+      <recent name="D:\MyCode\bookmall\bookmall-auth\bookmall-auth-common\src\main\java\pers\bookmall\common\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BookMallOrderApplication">
+    <configuration name="test.testGenerateToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookmall-auth-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bookmall.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pers.bookmall.auth" />
+      <option name="MAIN_CLASS_NAME" value="pers.bookmall.auth.test" />
+      <option name="METHOD_NAME" value="testGenerateToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testParseToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookmall-auth-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bookmall.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pers.bookmall.auth" />
+      <option name="MAIN_CLASS_NAME" value="pers.bookmall.auth.test" />
+      <option name="METHOD_NAME" value="testParseToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testRsa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookmall-auth-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bookmall.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pers.bookmall.auth" />
+      <option name="MAIN_CLASS_NAME" value="pers.bookmall.auth.test" />
+      <option name="METHOD_NAME" value="testRsa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookmall-auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.BookMallAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookmall-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.BookMallCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookmall-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.BookMallGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallGoodsWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookmall-goods-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.goodsweb.BookMallGoodsWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookmall-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.BookMallItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bookmall-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bookmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.BookMallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookmall-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.BookMallRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallSearchService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookmall-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.BookMallSearchService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bookmall-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bookmall.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.sms.BookMallSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookmall-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.upload.BookMallUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookMallUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookmall-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.bookmall.user.BookMallUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.test.testGenerateToken" />
+      <item itemvalue="JUnit.test.testRsa" />
+      <item itemvalue="JUnit.test.testParseToken" />
+      <item itemvalue="Spring Boot.BookMallGatewayApplication" />
+      <item itemvalue="Spring Boot.BookMallRegistryApplication" />
+      <item itemvalue="Spring Boot.BookMallUserApplication" />
+      <item itemvalue="Spring Boot.BookMallAuthApplication" />
+      <item itemvalue="Spring Boot.BookMallCartApplication" />
+      <item itemvalue="Spring Boot.BookMallUploadApplication" />
+      <item itemvalue="Spring Boot.BookMallSearchService" />
+      <item itemvalue="Spring Boot.BookMallItemServiceApplication" />
+      <item itemvalue="Spring Boot.BookMallGoodsWebApplication" />
+      <item itemvalue="Spring Boot.BookMallSmsApplication" />
+      <item itemvalue="Spring Boot.BookMallOrderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BookMallSmsApplication" />
+        <item itemvalue="Spring Boot.BookMallOrderApplication" />
+        <item itemvalue="JUnit.test.testParseToken" />
+        <item itemvalue="JUnit.test.testRsa" />
+        <item itemvalue="JUnit.test.testGenerateToken" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="完成" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a53414c4-b584-4297-8143-0a02d607809e" name="默认更改列表" comment="" />
+      <created>1594301792120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594301792120</updated>
+      <workItem from="1594301794798" duration="6755000" />
+      <workItem from="1594345014101" duration="71005000" />
+      <workItem from="1594779872422" duration="45898000" />
+      <workItem from="1595214659435" duration="350000" />
+      <workItem from="1595234829294" duration="52540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Inspections" timestamp="1594898675637">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Inspections/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594898675636" />
+    <state x="552" y="198" key="#SQL_方言" timestamp="1594898191954">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#SQL_方言/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594898191954" />
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594899049643">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594899049643" />
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1595509548828">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1155" y="224" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594720386399" />
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595509548828" />
+    <state x="-1336" y="465" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594718466337">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1336" y="465" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594718466337" />
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594808877697">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1230" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594731764240" />
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594808877697" />
+    <state x="552" y="198" key="#项目结构" timestamp="1594883645762">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1368" y="198" key="#项目结构/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594695773794" />
+    <state x="552" y="198" key="#项目结构/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594883645762" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1595577652968">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595577652968" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1595578683803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594779647808" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595578683803" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1595578683803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594779647807" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595578683803" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1595578683803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594779647807" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595578683803" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1595578683803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594779647808" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595578683803" />
+    <state width="1293" height="335" key="GridCell.Tab.1.bottom" timestamp="1595578683797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594779647808" />
+    <state width="1293" height="335" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595578683797" />
+    <state width="1293" height="335" key="GridCell.Tab.1.center" timestamp="1595578683796">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594779647808" />
+    <state width="1293" height="335" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595578683796" />
+    <state width="1293" height="335" key="GridCell.Tab.1.left" timestamp="1595578683796">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594779647808" />
+    <state width="1293" height="335" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595578683796" />
+    <state width="1293" height="335" key="GridCell.Tab.1.right" timestamp="1595578683797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594779647808" />
+    <state width="1293" height="335" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595578683797" />
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1594723783503">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594723783503" />
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594348466675" />
+    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1594723783503">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.center/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594723783503" />
+    <state width="1293" height="295" key="GridCell.Tab.2.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594348466675" />
+    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1594723783503">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.left/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594723783503" />
+    <state width="1293" height="295" key="GridCell.Tab.2.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594348466675" />
+    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1594723783503">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.right/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594723783503" />
+    <state width="1293" height="295" key="GridCell.Tab.2.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594348466675" />
+    <state x="-1430" y="195" key="Maven.ArtifactSearchDialog" timestamp="1594543398400">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1430" y="195" key="Maven.ArtifactSearchDialog/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594543398400" />
+    <state x="635" y="311" key="NewModule_or_Project.wizard" timestamp="1594888193358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="635" y="311" key="NewModule_or_Project.wizard/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594888193358" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1594898971963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1459" y="182" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594519143566" />
+    <state x="461" y="182" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594898971963" />
+    <state x="-1189" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594718923857">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1189" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594718923857" />
+    <state x="334" y="234" key="new project wizard" timestamp="1594809582239">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1586" y="234" key="new project wizard/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594728248977" />
+    <state x="334" y="234" key="new project wizard/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1594809582239" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1594722925850">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1594722925850" />
+  </component>
+</project>

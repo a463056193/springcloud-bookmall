@@ -1,0 +1,5 @@
+pers\bookmall\common\utils\ObjectUtils.class
+pers\bookmall\common\pojo\UserInfo.class
+pers\bookmall\common\utils\JwtUtils.class
+pers\bookmall\common\utils\JwtConstans.class
+pers\bookmall\common\utils\RsaUtils.class

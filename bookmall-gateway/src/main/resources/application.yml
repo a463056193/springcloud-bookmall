@@ -1,0 +1,54 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: bookmall-gateway
+  datasource:
+    url: jdbc:mysql://localhost:3306/bookmall?serverTimezone=GMT%2B8
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+eureka:
+  client:
+    registry-fetch-interval-seconds: 5
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+ribbon:
+  ReadTimeout: 3000
+  ConnectTimeout: 3000
+zuul:
+  prefix: /api
+  host:
+    connect-timeout-millis: 3000
+    socket-timeout-millis: 3000
+  routes:
+    item-service: /item/**
+    user-service: /user/**
+    sms-service: /sms/**
+    auth-service: /auth/**
+    cart-service: /cart/**
+  add-host-header: true
+  sensitive-headers: #覆盖默认敏感头信息
+  ignored-patterns: /upload/** #忽略上传路径
+  ignored-services:
+    - upload-service #忽略upload-service服务
+bookmall:
+  jwt:
+    pubKeyPath: G:\\tmp\\rsa\\rsa.pub # 公钥地址
+    cookieName: BM_TOKEN
+  filter:
+    allowPaths:
+      - /api/auth
+      - /api/search
+      - /api/user/register
+      - /api/user/check
+      - /api/user/code
+      - /api/item
+      - /zuul/api/upload
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeout-in-milliseconds: 3000

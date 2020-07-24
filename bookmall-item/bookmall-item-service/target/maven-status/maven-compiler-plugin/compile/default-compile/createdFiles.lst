@@ -1,0 +1,7 @@
+pers\bookmall\item\mapper\CategoryMapper.class
+pers\bookmall\BookMallItemServiceApplication.class
+pers\bookmall\item\controller\CategoryController.class
+pers\bookmall\item\mapper\BookMapper.class
+pers\bookmall\item\controller\BookController.class
+pers\bookmall\item\service\BookService.class
+pers\bookmall\item\service\CategoryService.class

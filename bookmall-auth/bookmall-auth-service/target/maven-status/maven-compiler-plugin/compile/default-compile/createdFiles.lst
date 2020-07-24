@@ -1,0 +1,6 @@
+pers\bookmall\auth\controller\AuthController.class
+pers\bookmall\BookMallAuthApplication.class
+pers\bookmall\auth\config\JwtProperties.class
+pers\bookmall\auth\client\UserClient.class
+pers\bookmall\auth\service\AuthService.class
+META-INF\spring-configuration-metadata.json

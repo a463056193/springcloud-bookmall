@@ -1,0 +1,4 @@
+pers\bookmall\item\pojo\Book.class
+pers\bookmall\item\pojo\Category.class
+pers\bookmall\item\api\BookApi.class
+pers\bookmall\item\api\CategoryApi.class

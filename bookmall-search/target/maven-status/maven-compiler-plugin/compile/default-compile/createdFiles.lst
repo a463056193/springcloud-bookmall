@@ -1,0 +1,6 @@
+pers\bookmall\search\repository\CategoryRespository.class
+pers\bookmall\search\service\SearchService.class
+pers\bookmall\search\pojo\Category.class
+pers\bookmall\search\client\CategoryClient.class
+pers\bookmall\BookMallSearchService.class
+pers\bookmall\search\pojo\Goods.class

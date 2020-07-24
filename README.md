@@ -20,6 +20,8 @@ Spring Cloud 为最常见的分布式系统模式提供了一种简单且易于�
 * **上传模块** ：bookmall-upload
 * **用户模块** ：bookmall-user
 
+该项目的前台模块在bookmall-portal仓库中
+
 ### 授权中心模块
 微服务集群中的每个服务，对外提供的都是Rest风格的接口。而Rest风格的一个最重要的规范就是：服务的无状态性
 
